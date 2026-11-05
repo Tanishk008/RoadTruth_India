@@ -1,6 +1,6 @@
 # Road Truth India
 
-An independent citizen portal for India's expressways. It provides: 
+An independent citizen portal for India's expressways. It provides::
 
 - **Expressway data** for 31 corridors (expressways, ring roads and a sea link): length, cost, status, and which contractor built which package, each with sources and a last-verified date.
 - **A page for every corridor** with an embedded Google Maps route, an "Open in Google Maps" directions link and clickable route stops.
