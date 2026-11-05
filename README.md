@@ -1,10 +1,10 @@
 # Road Truth India
 
-An independent citizen portal for India's expressways. It provides:
+An independent citizen portal for India's expressways. It provides: 
 
 - **Expressway data** for 31 corridors (expressways, ring roads and a sea link): length, cost, status, and which contractor built which package, each with sources and a last-verified date.
 - **A page for every corridor** with an embedded Google Maps route, an "Open in Google Maps" directions link and clickable route stops.
-- **An interactive network map**: hover a corridor to see its details, or click it to open its page. It's drawn from the data, so no map library or API key is needed.
+- **An interactive network map**: hover a corridor to see its details, or click it to open its page. It's drawn from the data, so no map library or API key is needed
 - **A contractor directory** of 18 companies with founding year, headquarters, listing, FY25 revenue and expressway work, cross-linked with the expressway entries.
 - **A toll calculator** with sourced rates for 8 expressways: per-km fares between any two stops (Samruddhi, Yamuna) or full-trip fares, by vehicle class, with return-trip and no-FASTag options. Each rate is marked official, reported or estimate.
 - **Share cards**: every corridor and contractor page has a generated preview image (1200×630) with its key figures and route shape, for WhatsApp, X and LinkedIn.
